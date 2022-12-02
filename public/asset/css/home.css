@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Cinzel:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap');
+
+
+
+.alif-tete{
+    font-family: 'Cinzel', serif !important;
+}
+
+body{
+    background-image: url(https://wallpaperaccess.com/full/1216364.jpg) !important;
+    background-size: cover !important;
+    background-color: rgb(0, 0, 0) !important;
+    font-family: 'Bebas Neue', cursive !important;
+    font-weight: 500 !important;
+}
+
+.alif-titit{
+    margin-top: -290px;
+    text-align: right;
+    color: rgb(255, 255, 255);
+    font-size: 30px;
+}
